@@ -5,4 +5,6 @@
    - Era: an AI agent that picks the right tool
    - Karim: A tool to cure cancer.
    - Elektra: Build a portfolio
+   - Asiah: a personal app
+   - Malaak: cute design on google
 
