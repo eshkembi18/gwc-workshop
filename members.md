@@ -4,3 +4,5 @@
 
    - Era: an AI agent that picks the right tool
    - Karim: A tool to cure cancer.
+   - Elektra: Build a portfolio
+
