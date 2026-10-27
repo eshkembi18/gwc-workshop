@@ -5,3 +5,6 @@
    - Era: an AI agent that picks the right tool
    - Karim: A tool to cure cancer.
    - Hanna: An app. 
+   - Asiah: a personal app
+   - Malaak: cute design on google
+
